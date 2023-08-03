@@ -1,0 +1,9 @@
+.section-intro {
+  height: 600px;
+};
+
+.imagem-mar img {
+  filter: brightness(
+25%
+)
+};
